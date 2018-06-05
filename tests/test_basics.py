@@ -7,5 +7,5 @@ from catlolzer import (
 
 def test_lolzing():
     catlolzer = CatLolzer(5)
-    result = catlolzer("Miaow")
+    result = catlolzer.lolize("Miaow")
     assert result.shape[0] == 5
