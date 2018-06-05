@@ -1,0 +1,2 @@
+include versioneer.py
+include catlolzer/_version.py
