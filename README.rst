@@ -9,7 +9,7 @@ An advanced Python-based cat lolzing engine.
   >>> from catlolzer import CatLolzer
   >>> mylolzer = CatLolzer(alpha=8)
   >>> for cat in my_crazy_cats:
-  ...   mylolzer.lolize(cat)
+  ...    mylolzer.lolize(cat)
 
 .. contents::
 
