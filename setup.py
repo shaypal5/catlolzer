@@ -24,6 +24,7 @@ setuptools.setup(
     author="Shay Palachy",
     author_email="shay.palachy@gmail.com",
     name='catlolzer',
+    license="MIT",
     description='Powerfull Python-based cat lolzing engine.',
     version=versioneer.get_version(),
     cmdclass=versioneer.get_cmdclass(),
