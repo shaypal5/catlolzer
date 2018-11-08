@@ -50,7 +50,7 @@ Contributing
 Package author and current maintainer is Shay Palachy (shay.palachy@gmail.com); You are more than welcome to approach him for help. Contributions are very welcomed.
 
 Installing for development
-----------------------------
+--------------------------
 
 Clone:
 
