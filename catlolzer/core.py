@@ -29,3 +29,8 @@ class CatLolzer(object):
             The lolized cat.
         """
         return np.zeros(self.alpha)
+
+
+def cheezburger(n):
+    """You can has the cheezburger."""
+    print(f"can I has {n} cheezburgers?")
